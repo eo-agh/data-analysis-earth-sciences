@@ -30,7 +30,11 @@ theme:
     code: Roboto Mono
 
 plugins:
-  - mkdocs-jupyter
+  - search
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: True
+      execute: false
 
 markdown_extensions:
   - admonition
@@ -43,4 +47,5 @@ markdown_extensions:
 
 nav:
   - Strona główna: index.md
-  - 👽 Środowisko lokalne: test.ipynb
+  - 👽 STAC: stac.ipynb
+  - 👽 GeoParquet: geoparquet.ipynb
