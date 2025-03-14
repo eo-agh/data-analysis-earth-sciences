@@ -5,7 +5,7 @@ Witam Państwa na zajęciach z przedmiotu Analiza danych w naukach o Ziemi dla k
 - **Prowadzący**: Jakub Staszel
 - **Forma zajęć**: ćwiczenia laboratoryjne
 - **Liczba godzin**: 1h 30 min x 30
-- **Miejsce**: Sala 374, A0
+- **Miejsce**: Sala 313, A0
 
 ## 🎯 Cel kursu
 
