@@ -1,7 +1,5 @@
 # Wykrywanie anomalii na obrazach Sentinel-2
 
-!!! tip "--- automatyzacja --- algorytmy ---"
-
 **Opis problemu badawczego:** Dane optyczne pozwalają na monitorowanie zmian w środowisku, ale detekcja nietypowych zdarzeń (anomalii) wymaga zaawansowanej analizy danych. Anomalie mogą obejmować wylesienia, susze, pożary, zmiany pokrycia terenu, zanieczyszczenia wód i anomalia w roślinności. Celem projektu jest opracowanie systemu automatycznego wykrywania anomalii na podstawie wskaźników spektralnych i metod uczenia maszynowego, w tym algorytmów nadzorowanych i nienadzorowanych.
 
 **Proponowane źródła danych:**
