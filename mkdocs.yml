@@ -6,6 +6,9 @@ copyright: Copyright 2024 Jakub Staszel KGiIS AGH
 
 theme:
   name: material
+  features:
+    - navigation.sections
+    - content.code.copy
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -47,5 +50,16 @@ markdown_extensions:
 
 nav:
   - Strona główna: index.md
-  - 👽 STAC: stac.ipynb
-  - 👽 GeoParquet: geoparquet.ipynb
+  - Przykłady:
+    - 👽 STAC: stac.ipynb
+    - 👽 GeoParquet: geoparquet.ipynb
+  - Projekty:
+    - Sposób prowadzenia projektów: projects/ways_of_working.md
+    - Tematy:
+      - Zmiany klimatyczne w miastach: projects/meteo_data_for_cities.md
+      - Wykrywanie anomalii na optycznych danych sat.: projects/anomalies_sentinel2.md
+      - Analiza zmian w użytkowaniu terenu: projects/lulc.md
+      - Wykrywanie zmian wysokości terenu: projects/insar.md
+      - Analiza przestrzenna dla przejazdów karetek w Małopolsce: projects/ambulances.md
+      - Modele nadrozdzielcze danych Sentinel-2: projects/sr.md
+      - Inne: projects/other.md 
