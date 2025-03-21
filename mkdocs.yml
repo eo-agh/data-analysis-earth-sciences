@@ -50,6 +50,9 @@ markdown_extensions:
 
 nav:
   - Strona główna: index.md
+  - Wybrany projekt:
+    - 📋 Opis: my_project/desc.md
+    - Log: my_project/log.md
   - Przykłady:
     - 👽 STAC: stac.ipynb
     - 👽 GeoParquet: geoparquet.ipynb

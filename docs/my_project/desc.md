@@ -1,0 +1,7 @@
+## Cel
+
+## Metody
+
+## Techniczna implementacja
+
+## ...
